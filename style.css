@@ -16,8 +16,9 @@ body {
     line-height: 200px;
   }
 
-  img {display:block;
-    size: 25px;
+.us_image { 
+    margin: auto;
+   
 }
 
 .box {
